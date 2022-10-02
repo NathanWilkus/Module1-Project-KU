@@ -442,5 +442,6 @@ img.lastPhoto{
 
 .icon {
     margin: 0 .5rem 0 .5rem;
+    text-shadow: .5px .5px 5px yellow;
 }
 
